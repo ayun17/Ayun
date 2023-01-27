@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Ayun's%20Github!&desc=Hello%20welcome%20)
+![header](https://capsule-render.vercel.app/api?height=300&text=Ayun's%20Github!&desc=Hello%20welcome%20)
 
 # 안녕하세요! 김아윤의 github 입니다!
 
