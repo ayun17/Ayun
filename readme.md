@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=      Ayun's%20github&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?height=400&text=Ayun's%20Github!&desc=Hello%20welcome%20)
 
 # 안녕하세요! 김아윤의 github 입니다!
 
